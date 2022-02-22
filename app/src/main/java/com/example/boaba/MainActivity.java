@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //C 23 февраля, брат. Скажи домашку по алгебере
-    }
+        // 124 - 129
+
+        }
 }
